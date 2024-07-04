@@ -2,7 +2,8 @@
   "name":"V-6-BMW-XMD",
   "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
+  "logo":"
+",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +36,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
+      "value":"Nomi",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
+      "value":"",
       "required":false
        
      },
@@ -67,7 +68,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0o1K0tjZ05kUHVNaVpTcGFFbnZWTWNncHFSQWZ0YWZGQ05qM0FvLzIxZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidEpydExNVWt3U2YxRzB3NUJobnRXUjRZaWZpWi94aWkwSmNJRFd3eW9Taz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwTkdXWjVpOXg5SWNpMElOeHo1a3MydnJFellONm1zTmVKVVJPbWdUSlhnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXTEJEWDR6b29aZWt0cEo0cEpRTWNNSEJDYXh4czZzWHAwNjVCQ3Z6OVRBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1IeGxwVk9KaTFYWTZCYldXdXIvQWFsc2NEa3RuVWlRNTdOMGIyK3MyMlE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZZK3J3a3hQWHhpOWZEVkltWng0b3cxaFBhdHRaRG1laUo1K0tTWkFWMWc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUY4b1ZPblhyS0ZmMjJBRnlCaks5VmFOdWgvUGNuOVYvcU9FZmF5Qm1VST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaWtyOTVjZTY2REhYandvenU0YmVrc0IvZlhOUCtkWEVBZzRUOXYxNDhSQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InIwbitydWNaMzBscGN2QmtDcHVMRTl0RGxkMmN6MEtXbUJxdm4ydjZDT2JaVFNhTU1YZWsyRGRvMXdjTTNaSlJlREFmOGVqTUo2dWlFMUluOUlEUUNRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDYsImFkdlNlY3JldEtleSI6IlBCMEtRU1A2dHQ0MVMzRHFSbzVmWFNHTzNrTkkrV2RPSk9NVlB5Q3lJUnM9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiOTIzMzE5MzczMjg4QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkI3MzVFQTYxQjZGQTlBQTE4OEQwQkUyNEI5QzNENjFGIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjAxMjI5NDN9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Ikg4dzI2MjF1UlJtYmVYRWlRVG95c2ciLCJwaG9uZUlkIjoiZGI4MTkzYWMtMWNkMC00YjMwLTg5MWEtNzBiZjU2YjZkODgxIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZoTVNmeDVOT29rQjBISmhDY2w5T1NjTHRrUT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVdGRiTVgxalloeGVUcjYxRTQyRTRDL2NDTnM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiQldXOThCWkUiLCJtZSI6eyJpZCI6IjkyMzMxOTM3MzI4ODoxOUBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJTYXZhZ2UifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ083Uno0d0ZFSzc4bTdRR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InR6eDdESWlmd0VkWW1lZDYvTnNkcERHcGpNazgrVk40LzdxUTdyMzIzQ1U9IiwiYWNjb3VudFNpZ25hdHVyZSI6InFhRUpTZndjK1VSQVFlNU5kQ1ZwZ0Q5dGduaXpGWEFXMTVqVkY3MWpKUC9QUEhMTjJJdEJESjhpNm40bEdYVVRmV2R1ZDJ6cEl3d0tPbHlHU3d6SURnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJRblB4ODJrVUE5clZwTTdjTU1iRVB1WUtWUjh2bHVDeDlPRWN0d2x5T0Q1LzhyR3VNNFdWOE1aQUtvbmcyVENJT1pwdU8vVEhqS20wNzl5czh1SWlDdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzMxOTM3MzI4ODoxOUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJiYzhld3lJbjhCSFdKbm5ldnpiSGFReHFZekpQUGxUZVArNmtPNjk5dHdsIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIwMTIyOTM4LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUxIMSJ9",
       "required":true
       
     },
